@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Notaciones\bin\Debug\Notaciones.exe.config
+C:\Users\USER\source\repos\Notaciones\bin\Debug\Notaciones.exe
+C:\Users\USER\source\repos\Notaciones\bin\Debug\Notaciones.pdb
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.Form1.resources
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.Properties.Resources.resources
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.exe
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.pdb
+C:\Users\USER\source\repos\Notaciones\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\Notaciones\obj\Debug\Notaciones.csproj.CopyComplete
